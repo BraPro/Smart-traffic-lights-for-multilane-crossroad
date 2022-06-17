@@ -1,7 +1,7 @@
 # Smart-traffic-lights-for-multilane-crossroad
 Capstone Project / ORT Braude College / Date: 2/2021\
 This simulator was created by Rafael Mosheyoff and Shoval Yehuda as part of our final project as Software engineers.\
-Supervisors: Dr. Zeev Frenkel\ 
+Supervisors: Dr. Zeev Frenkel 
 \
 \
 How to run simulator:\
@@ -25,4 +25,4 @@ necessary libraries:\
 4.install matplotlib\
 5.install numpy\
 6.install traci\
-7.tensorflow\ 
+7.tensorflow 
