@@ -15,7 +15,7 @@ How to run trainer:\
 2- click on move to trainer window\
 2- set the values and click on train model\
 3- wait for the trainer to end you can choose to open simulation gui (sumo) better not! because need to be close after every episode\
-4- once the trainer ends check in the created folder the model and the result plots\ 
+4- once the trainer ends check in the created folder the model and the result plots\
 \
 \
 necessary libraries:\
